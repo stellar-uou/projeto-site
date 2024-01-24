@@ -1,5 +1,4 @@
-# Projeto de site
-<br>
+# Projeto de site <br>
 Este projeto representa um site de uma lanchonete desenvolvido utilizando HTML e CSS. Criado com o intuito de testar minhas habilidades, além de ser um projeto da faculdade em tecnologia web.<br>
 
 # Como Contribuir: <br>
