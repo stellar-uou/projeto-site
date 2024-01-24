@@ -1,0 +1,284 @@
+.plugin-file-cover {
+    background-color: #fdfcf9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.plugin-file-cover .overlap-wrapper {
+    background-color: #fdfcf9;
+    overflow: hidden;
+    width: 1396px;
+    height: 720px;
+}
+
+.plugin-file-cover .overlap {
+    position: relative;
+    width: 1398px;
+    height: 720px;
+}
+
+.plugin-file-cover .download {
+    width: 592px;
+    left: 0;
+    position: absolute;
+    height: 720px;
+    top: 0;
+    object-fit: cover;
+}
+
+.plugin-file-cover .img {
+    width: 504px;
+    left: 569px;
+    position: absolute;
+    height: 720px;
+    top: 0;
+    object-fit: cover;
+}
+
+.plugin-file-cover .download-2 {
+    width: 323px;
+    left: 1073px;
+    position: absolute;
+    height: 720px;
+    top: 0;
+    object-fit: cover;
+}
+
+.plugin-file-cover .perguntas {
+    width: 306px;
+    height: 300px;
+    left: 1000px;
+    position: absolute;
+    top: 259px;
+}
+
+.plugin-file-cover .overlap-group {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: #f6cc6b;
+    border-radius: 75px;
+}
+
+.plugin-file-cover .text-wrapper {
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    top: 197px;
+    left: 50px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .div {
+    position: absolute;
+    width: 218px;
+    height: 49px;
+    top: 117px;
+    left: 41px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .text-wrapper-2 {
+    position: absolute;
+    width: 223px;
+    height: 46px;
+    top: 38px;
+    left: 37px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .cabealho {
+    position: absolute;
+    width: 1398px;
+    height: 226px;
+    top: 0;
+    left: 0;
+}
+
+.plugin-file-cover .overlap-2 {
+    position: relative;
+    width: 1396px;
+    height: 226px;
+}
+
+.plugin-file-cover .cabealho-amarelo {
+    position: absolute;
+    width: 1396px;
+    height: 152px;
+    top: 0;
+    left: 0;
+    background-color: #f8b701;
+}
+
+.plugin-file-cover .logo {
+    position: absolute;
+    width: 203px;
+    height: 202px;
+    top: 0;
+    left: 96px;
+    background-color: #000000;
+}
+
+.plugin-file-cover .logo-2 {
+    position: absolute;
+    width: 203px;
+    height: 226px;
+    top: 0;
+    left: 96px;
+    object-fit: cover;
+}
+
+.plugin-file-cover .text-wrapper-3 {
+    position: absolute;
+    width: 1396px;
+    height: 152px;
+    top: 50px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .perguntas-2 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 550px;
+    top: 259px;
+    background-color: #f6cc6b;
+    border-radius: 75px;
+}
+
+.plugin-file-cover .overlap-group-wrapper {
+    width: 306px;
+    height: 300px;
+    left: 96px;
+    position: absolute;
+    top: 259px;
+}
+
+.plugin-file-cover .text-wrapper-4 {
+    position: absolute;
+    width: 236px;
+    height: 55px;
+    top: 198px;
+    left: 34px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .text-wrapper-5 {
+    position: absolute;
+    width: 239px;
+    height: 44px;
+    top: 122px;
+    left: 35px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .text-wrapper-6 {
+    position: absolute;
+    width: 237px;
+    height: 35px;
+    top: 56px;
+    left: 35px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.plugin-file-cover .boto-cadastro {
+    position: absolute;
+    width: 152px;
+    height: 47px;
+    top: 643px;
+    left: 623px;
+
+}
+
+
+.plugin-file-cover .overlap-3 {
+    position: relative;
+    width: 150px;
+    height: 47px;
+}
+
+.plugin-file-cover .botao-cadastro {
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    top: 4;
+    left: 0;
+    background-color: #df1414;
+    border-radius: 75px;
+    text-decoration: none;
+    text-align: center;
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    border-radius: 75px;
+    top: 4px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-co
+}
+
+
+.plugin-file-cover .text-wrapper-7 {
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    border-radius: 75px;
+    top: 4px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
